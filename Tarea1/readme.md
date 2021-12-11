@@ -11,6 +11,8 @@ el script debería regresar.
 
 En el ejercicio parte 1, estaremos explicando la manera de representar estas redes de plantas como matrices reactangulares.
 Ademas, estos ejercicios seran realizados en el script <netsize.sh>
+Explicare en que tipo de computadora estoy trabajando, debido a que es de suma importancia el saber y de esa manera trabajar 
+con un buen uso, la computadora es marca Lenovo o tambien puede se cualquier otra marca. El uso de <netsize.sh> es un puente de  operadora entre el cliente donde ayuda a realizar varios tipos de opraciones.
 
 # Ejercicio parte 2
 2. Escriba un guión que imprima el número de filas y columnas para cada red
