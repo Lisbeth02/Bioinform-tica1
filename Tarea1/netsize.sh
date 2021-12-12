@@ -14,3 +14,5 @@ cat n1.txt
 # El número de fila son: 
 97 n1.txt
     
+# Final de la ejecucion 
+:hugs:  :zany_face:
