@@ -1,5 +1,6 @@
 # Bioinform-tica1
 1.10.3 REDES DE PLANTAS POLINIZADORAS
+
 Saavedra y Stouffer (2013) estudiaron varias redes de plantas polinizadoras. Estos se pueden representar como matrices rectangulares donde las filas son polinizadores, las columnas plantas, un 0 indica la ausencia y 1 la presencia de una interacción entre la planta y el poillantor.
 Los datos de Saavedra y Stouffer (2013) se pueden encontrar en el directorio CSB / unix / data / Saavedra2013.
 1. Escriba un guión que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas).
@@ -22,4 +23,4 @@ Ahora elegimos las mismas ruta del repositorio anterior Corremos la información
 #Para finalizar obtendremos los resultados en la parte de netsize_all.txt con archivos de n59.txt
 
 Los resultados se encuentran en la carpeta netsize_all.txt
-##sunglasses 
+##sunglasses 😊😎😎😎😎😊😊
