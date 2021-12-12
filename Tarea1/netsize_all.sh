@@ -8,4 +8,5 @@
 #En esta parte ejecutaremos el codigo de Git Bash 
 Utilizamos el for , do , done
  for file in $(ls *.txt); do wc -l $file; head -n1 $file | grep -o " " | wc -l; done
- 
+#Para finalizar obtuve los siguientes resultados en la parte de netsize_all.txt con archivos de n59.txt
+:crossed_fingers:
