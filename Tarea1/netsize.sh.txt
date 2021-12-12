@@ -1,1 +1,10 @@
+# Resultados del Ejercicio 1.10.3 parte 1 
+:shushing_face:
+#Tenemos:
+El ńumero de columnas es:
+80
+El numero de filas es:
+97 n1.txt
 
+#Fin de la ejecucion
+:sleepy: :woozy_face:
